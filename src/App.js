@@ -1,7 +1,7 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useEffect, useState } from 'react';
-import { Button, Spinner, Row, Col, Card } from 'react-bootstrap';
+import { Spinner, Row } from 'react-bootstrap';
 import News from './component/News/News';
 
 function App() {
